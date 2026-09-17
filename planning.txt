@@ -1,6 +1,6 @@
 Language: Python
-GUI Library:
+GUI Library: Kivy
 IDE: VSCode
-Unit Test: 
-Programming Style:
+Unit Test: PyTest
+Programming Style: Waterfall
 Hosting Site: Github.com
